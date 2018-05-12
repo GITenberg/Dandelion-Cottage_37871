@@ -1,0 +1,38 @@
+_repo: Dandelion-Cottage_37871
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stevens, Mary
+    gutenberg_agent_id: '39104'
+    url: http://www.gutenberg.org/2009/agents/39104
+covers:
+- cover_type: archival
+  image_path: 37871-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rankin, Carroll Watson
+    birthdate: 1870
+    gutenberg_agent_id: '38085'
+    url: http://www.gutenberg.org/2009/agents/38085
+description: Liked Louisa May Alcott's Little Women? You'll love Dandelion Cottage
+  from Michigan author Carroll Watson Rankin. In this charming tale, four girls play
+  an extended and elaborate game of 'house' in an abandoned cottage. Before long,
+  the close bonds they form begin to spill over into real life -- with surprising
+  and serendipitous results.
+gutenberg_issued: '2011-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Superior, Lake -- Juvenile fiction'
+- !lcsh 'Michigan -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Cottages -- Juvenile fiction'
+title: Dandelion Cottage
+url: http://www.gutenberg.org/ebooks/37871
